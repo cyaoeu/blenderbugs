@@ -1,0 +1,2 @@
+Result: Drawing GP strokes zoomed in results in strokes ending up in a different place than drawn.
+Expected: Drawing GP strokes zoomed in results in strokes ending up where they are drawn.
