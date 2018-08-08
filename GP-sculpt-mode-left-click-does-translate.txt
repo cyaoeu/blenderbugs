@@ -1,0 +1,2 @@
+Result: Left click in GP sculpt mode does Translate.
+Expected: Left click in GP sculpt mode draws the selected sculpt mode.
