@@ -1,0 +1,2 @@
+Result: Resulting fill of GP fill area tool ends up far away from original strokes.
+Expected: Resulting fill of GP fill area tool ends up on top (or very close) of original strokes.

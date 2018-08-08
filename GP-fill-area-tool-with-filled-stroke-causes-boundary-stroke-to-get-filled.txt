@@ -1,0 +1,2 @@
+Result: Drawing with GP fill area tool with filled stroke causes boundary stroke to get filled.
+Expected: Drawing with GP fill area tool with filled stroke, the boundary stroke should ignore fill settings.

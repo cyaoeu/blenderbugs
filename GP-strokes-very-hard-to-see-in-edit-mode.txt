@@ -1,0 +1,2 @@
+Result: GP strokes are very hard to see in edit mode compared to object mode.
+Expected: GP strokes are the same (or at least similar) to edit mode and can be clearly seen.
