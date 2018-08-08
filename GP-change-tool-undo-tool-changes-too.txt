@@ -1,0 +1,1 @@
+When selecting a tool, drawing, then undo, the tool selection is reverted too.
