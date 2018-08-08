@@ -1,1 +1,2 @@
-When selecting a tool, drawing, then undo, the tool selection is reverted too.
+Result: When selecting a tool, drawing, then undo, the tool selection is reverted too.
+Expected: When selecting a tool, drawing, then undo, only the drawn stroke is undone.

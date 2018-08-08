@@ -1,0 +1,2 @@
+Result: Alt+click in Edit mode for GP does Select (entire strokes). Alt+click in Draw mode draws a straight line.
+Expected: Alt+click rotates view irregardless of mode.
